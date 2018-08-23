@@ -15,6 +15,17 @@ The following is required to run the program.
 ## Visual
 ![pizza planet image](pizza-planet-SS1.jpg)
 
+## Happy Path
+ - open application in Android Studio
+ - start app by pressing green play button
+ - look at text and images
+ - smile and close app
+
+## Architecture
+This application was created using Android Studio 3.1.4 <br />
+*Languages*: XML<br />
+*Type of Applicaiton*: Android Application <br />
+
 ## Credits
 Image retrieved from the following URL: https://www.pinterest.com/pin/497014508849451273/
 
