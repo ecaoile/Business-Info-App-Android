@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">PizzaPlanetInfo</string>
+    <string name="app_name">Pizza Planet Info</string>
+    <string name="welcome">Welcome to Pizza Planet</string>
+    <string name="slogan">Serving pizza that\'s out of this world!</string>
+    <string name="address">1313 Disneyland Dr,\nAnaheim, CA 92802</string>
+    <string name="hours">Open 24 hours,\n356 days a year!</string>
+    <string name="manager">Manager: Bob Gunderson</string>
+    <string name="phone">Phone #: (555) 555-5555</string>
 </resources>
