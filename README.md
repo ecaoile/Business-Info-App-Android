@@ -25,6 +25,7 @@ The following is required to run the program.
 This application was created using Android Studio 3.1.4 <br />
 *Languages*: XML<br />
 *Type of Applicaiton*: Android Application <br />
+*Minimum API Level: 14 <br/>
 
 ## Credits
 Image retrieved from the following URL: https://www.pinterest.com/pin/497014508849451273/
